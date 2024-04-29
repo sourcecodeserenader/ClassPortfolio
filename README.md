@@ -1,6 +1,3 @@
-Certainly! Here is a professionally formatted `README.md` with bold headers and clear formatting:
-
-```markdown
 # Computer Science Coursework Portfolio
 
 This repository serves as a comprehensive portfolio of my coursework and projects completed as part of my computer science program.
@@ -56,6 +53,3 @@ Key skills developed during this project that are transferable to other work inc
 ### Maintainability, Readability, and Adaptability
 
 I adhered to **industry best practices** in maintainability and readability by including comprehensive in-line comments and using self-explanatory naming conventions. The code's modular design enhances adaptability, facilitating **easy updates** and the addition of new features without significant overhauls.
-```
-
-Feel free to copy this formatted text into your `README.md` on GitHub and edit any parts as needed to better reflect your own work and perspective. Remember to preview the document on GitHub to ensure the formatting appears correctly before finalizing your changes.
