@@ -50,7 +50,7 @@ I adhered to **industry best practices** in maintainability and readability by i
 
 ---
 
-### The Gaming Room Software Design Project (Completed: 06/23/2024)
+### The Gaming Room Software Design Project (Completed: 06/29/2024)
 #### Summary of The Gaming Room Client and Software Requirements
 The Gaming Room is a client that required a multiplayer gaming application. The software needed to manage user sessions, game states, and leaderboards efficiently.
 
